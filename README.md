@@ -5,4 +5,4 @@ Proyecto del curso de Inteligencia Artificial en la Universidad de Antioquia
 - Andrés Camilo Zúñiga Morelo, CC xxxxxxxx, Ingeniería Industrial
 
 ## Datos
-Los datos vienen de la competicción [Tabular Playground Series - Mar 2021](https://www.kaggle.com/competitions/tabular-playground-series-mar-2021) en kaggle
+Los datos vienen de la competicción [Tabular Playground Series - Mar 2021](https://www.kaggle.com/competitions/tabular-playground-series-mar-2021) en kaggle, la lectura de estos datos es automática ya que los dataframe estan alojados en el servidor educativo de google drive de la universidad.
